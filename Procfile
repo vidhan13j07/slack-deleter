@@ -1,1 +1,1 @@
-web: python slack-deleter.py
+web: gunicorn slack-deleter:app --log-file -
