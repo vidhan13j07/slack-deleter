@@ -25,6 +25,9 @@ $ python slacker-deleter.py
 ## Author
 [TetraEtc](https://github.com/TetraEtc)
 
+## Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Contributing
 - Fork it!
 - Create your feature branch: git checkout -b my-new-feature
