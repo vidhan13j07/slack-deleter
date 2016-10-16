@@ -1,6 +1,6 @@
 {
    "name": "Slack-deleter",
    "description": "a simple FLASK app that allows a user to quickly delete all the files they have access to in their slack team",
-   "repository": "https://github.com/heroku/slack-deleter",
+   "repository": "https://github.com/vidhan13j07/slack-deleter",
    "keywords": ["python", "flask"]
  }
