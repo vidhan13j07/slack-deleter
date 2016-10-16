@@ -1,1 +1,1 @@
-web: python slacker-deleter.py
+web: python slack-deleter.py
